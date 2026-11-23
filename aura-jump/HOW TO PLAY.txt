@@ -1,0 +1,52 @@
+AURA JUMP
+Made by Bryce and Landon Holcomb
+Starring Aura the bearded dragon
+
+Help Aura bounce up the rocks, catch crickets, and splat the angry veggies!
+
+PLAY HERE: https://fnivek.github.io/aura-jump/
+
+
+HOW TO PLAY
+-----------
+- Aura jumps by herself. You steer her.
+- iPad or phone: hold the LEFT side of the screen to go left, the RIGHT side to go right.
+- Computer: arrow keys, or A and D.
+- Catch crickets. Each one is 1 ammo (you start with 3).
+- Tap the big orange SPIT button (or press Up, W or Space on a computer) to spit a cricket
+  straight up. Hit a veggie to splat it for 100 points.
+- Land on top of a veggie to squash it. But if you bump into one from the side or below, it gets Aura!
+- Green leaves give a super jump. Blue rocks slide. Cracked rocks break when you land on them.
+- Do not fall off the bottom!
+- The button next to SPIT turns the sound on and off.
+
+
+PLAY ON AN IPAD OR IPHONE (the easy way)
+----------------------------------------
+1. Open https://fnivek.github.io/aura-jump/ in Safari.
+2. Tap the Share button (the square with the arrow pointing up).
+3. Tap "Add to Home Screen", then "Add".
+4. Aura Jump is now an app on your Home Screen with Aura's face on it. Tap it to play full screen.
+
+No sound? Turn the volume up, check that the button next to SPIT says "Sound: on", then tap the game once.
+
+
+PLAY ON A COMPUTER WITHOUT INTERNET
+-----------------------------------
+1. Unzip this folder.
+2. Double-click index.html. It opens in your web browser and works without the internet.
+
+
+SHARE IT WITH FRIENDS AND FAMILY
+--------------------------------
+Send them the link: https://fnivek.github.io/aura-jump/
+It works on any iPad, iPhone, Android phone or computer.
+Nothing to install, no account, no ads. Your best score is saved on your own device.
+
+
+HOW IT IS MADE
+--------------
+The whole game is one file: game.js. It is written in JavaScript, the language every web browser speaks.
+Open it in any text editor and read it from top to bottom: Setup, Sounds and music, The game world,
+Controls, Update (the rules), Draw (the pictures), and The game loop.
+Try changing JUMP, GRAVITY or the melody at the top, save, and reload the game to see what happens!
